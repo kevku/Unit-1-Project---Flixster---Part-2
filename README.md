@@ -29,7 +29,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One of the challenges that I faced was when implementing the MovieAdapter class because I kept having an error saying how there's already a file named MovieAdapter, but in the MainActivity it was not registering the class. It took some time to figure out that the path was not created in the correct file.
 
 ## License
 
