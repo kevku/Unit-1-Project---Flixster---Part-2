@@ -25,7 +25,7 @@
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+The only challenge that I had with this app was understanding the Youtube/Google API because the layout was a bit different from what was shown in the video.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
